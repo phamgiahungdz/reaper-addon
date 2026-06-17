@@ -13,7 +13,7 @@ import meteordevelopment.meteorclient.utils.player.Rotations;
 import meteordevelopment.orbit.EventHandler;
 import net.minecraft.item.Items;
 
-/**
+/**w
  * Auto-repair armor with XP.
  * Ported from 1.19.4 to 1.21.11.
  */
